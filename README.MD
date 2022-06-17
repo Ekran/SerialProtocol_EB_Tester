@@ -1,3 +1,9 @@
+#### Satus and ToDo
+
+- [ ] change protocol according https://sigrok.org/wiki/ZKETECH_EBD-USB
+- [ ] remove message size / set according to message type
+- [ ] check CRC calculation
+
 Arduino Serial Protocol
 ======
 
